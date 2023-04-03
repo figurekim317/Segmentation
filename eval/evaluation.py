@@ -1,7 +1,4 @@
-import torch
 
-# SR : Segmentation Result
-# GT : Ground Truth
 
 def get_accuracy(SR,GT,threshold=0.5):
     SR = SR > threshold
