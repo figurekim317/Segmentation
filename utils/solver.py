@@ -1,7 +1,4 @@
-import os
-import numpy as np
-import time
-import datetime
+
 import torch
 import torchvision
 from torch import optim
