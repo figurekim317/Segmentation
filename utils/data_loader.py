@@ -1,7 +1,4 @@
-
-import torch
-from torch.utils import data
-from torchvision import transforms as T
+ransforms as T
 from torchvision.transforms import functional as F
 from PIL import Image
 
