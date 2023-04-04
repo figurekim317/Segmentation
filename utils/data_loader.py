@@ -1,7 +1,4 @@
-ransforms 
-import torch
-from torch.utils import data
-from torchvision import tas T
+as T
 from torchvision.transforms import functional as F
 from PIL import Image
 
